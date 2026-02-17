@@ -142,10 +142,4 @@ npm start
 - All debates are pre-scripted
 - Authentication is temporary and client-side only
 
-## License
 
-MIT
-
----
-
-Built with ❤️ for hackathons
